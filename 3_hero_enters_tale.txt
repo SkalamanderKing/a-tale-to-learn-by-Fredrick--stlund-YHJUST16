@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 A well polished and shining knight comes riding.
+=======
+A knight comes riding, together with his friend The Bear.
+>>>>>>> d37bc626df1251b66d038996556c4e5de0a01d07
