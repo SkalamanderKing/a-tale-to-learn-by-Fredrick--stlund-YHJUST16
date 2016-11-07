@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Once apon a time there was a princess.
-Once apon a time there was a princess. She was very tall.
-=======
-Once apon a time there was a tiny princess.
->>>>>>> 8fc53e6cd111d02711de13c5838b8906e642c285
+Once apon a time there was a tiny princess. She was very tall.
