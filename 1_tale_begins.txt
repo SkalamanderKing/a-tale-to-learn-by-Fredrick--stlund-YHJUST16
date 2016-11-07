@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Once apon a time there was a princess.
 
+=======
+Once apon a time there was a princess. She was very tall.
+>>>>>>> ann-sofiepettersson-master
