@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 A beast is terrorizing the small village. Accompanying the Beast is his favorite pet squirrel Stanley.
 A huge, ugly, fire breathing dragon is terrorizing the small village.
+=======
+A huge, ugly, fire breathing dragon is terrorizing the small village. He was just hungry and wanted some food.
+>>>>>>> bb40deb2d5558f78e4bbd8d51ec981adad08d9e6
