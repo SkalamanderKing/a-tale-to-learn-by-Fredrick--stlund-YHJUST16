@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-The dragon arrives, still hungry.
-=======
 A dragon arrives and does what dragons do.
->>>>>>> 8fc53e6cd111d02711de13c5838b8906e642c285
