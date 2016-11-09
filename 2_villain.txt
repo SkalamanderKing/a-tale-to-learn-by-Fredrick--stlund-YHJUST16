@@ -3,4 +3,8 @@ A beast is terrorizing the small village. Accompanying the Beast is his favorite
 A huge, ugly, fire breathing dragon is terrorizing the small village.
 =======
 A huge, ugly, fire breathing dragon is terrorizing the small village. He was just hungry and wanted some food.
+<<<<<<< HEAD
 >>>>>>> bb40deb2d5558f78e4bbd8d51ec981adad08d9e6
+=======
+But he only liked bread.
+>>>>>>> 3a4435eda86077362462c83123d9fa25ce17ffdd

@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 A well polished and shining knight comes riding.
 A knight comes riding, together with his friend The Bear.
 =======
 A knight comes riding, together with his friend The Bear. The knight was in love with the princess.
 >>>>>>> bb40deb2d5558f78e4bbd8d51ec981adad08d9e6
+=======
+A knight comes riding, together with his friend The Great White Bear. The knight was in love with the princess.
+>>>>>>> 3a4435eda86077362462c83123d9fa25ce17ffdd
